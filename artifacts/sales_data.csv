@@ -1,0 +1,36 @@
+order_id,date,region,category,product,units,unit_price,revenue,cost,profit
+ORD-10001,2025-01-21,North America,Electronics,Webcam HD,573,65.0,37245.0,16976.84,20268.16
+ORD-10002,2025-02-04,Middle East & Africa,Electronics,Portable Charger,874,12.79,11178.46,4890.33,6288.13
+ORD-10003,2025-03-08,Middle East & Africa,Sports,Yoga Mat,1159,53.72,62261.48,41089.7,21171.78
+ORD-10004,2025-04-18,Latin America,Clothing,Denim Jeans,579,203.31,117716.49,47392.6,70323.89
+ORD-10005,2025-05-26,Europe,Home & Garden,Cushion Cover,579,43.09,24949.11,19532.29,5416.82
+ORD-10006,2025-06-11,North America,Electronics,USB-C Hub,208,92.95,19333.6,10393.4,8940.2
+ORD-10007,2025-07-09,North America,Home & Garden,Candle Set,265,243.41,64503.65,35568.2,28935.45
+ORD-10008,2025-08-18,Asia Pacific,Sports,Water Bottle,1192,52.11,62115.12,26574.22,35540.9
+ORD-10009,2025-09-22,Europe,Food & Beverage,Organic Coffee,486,217.29,105602.94,58298.15,47304.79
+ORD-10010,2025-10-15,Asia Pacific,Clothing,Cotton T-Shirt,737,56.33,41515.21,21039.54,20475.67
+ORD-10011,2025-11-22,North America,Sports,Resistance Bands,1103,183.64,202554.92,94261.16,108293.76
+ORD-10012,2025-12-13,Asia Pacific,Sports,Resistance Bands,674,211.5,142551.0,101268.23,41282.77
+ORD-10013,2025-01-08,North America,Food & Beverage,Dark Chocolate,558,21.22,11840.76,9061.19,2779.57
+ORD-10014,2025-02-19,Asia Pacific,Clothing,Denim Jeans,820,221.75,181835.0,119491.19,62343.81
+ORD-10015,2025-03-05,Asia Pacific,Clothing,Winter Jacket,1159,137.05,158840.95,110998.93,47842.02
+ORD-10016,2025-04-14,Middle East & Africa,Home & Garden,Cushion Cover,459,249.34,114447.06,52111.49,62335.57
+ORD-10017,2025-05-16,North America,Electronics,Wireless Headphones,323,158.72,51266.56,36749.5,14517.06
+ORD-10018,2025-06-14,Middle East & Africa,Electronics,USB-C Hub,791,150.99,119433.09,70133.49,49299.6
+ORD-10019,2025-07-09,Middle East & Africa,Electronics,Webcam HD,244,172.02,41972.88,25804.43,16168.45
+ORD-10020,2025-08-09,Asia Pacific,Electronics,Bluetooth Speaker,900,43.75,39375.0,15801.11,23573.89
+ORD-10021,2025-09-24,Asia Pacific,Sports,Resistance Bands,1049,228.59,239790.91,179413.34,60377.57
+ORD-10022,2025-10-10,Middle East & Africa,Sports,Resistance Bands,323,96.61,31205.03,14498.47,16706.56
+ORD-10023,2025-11-25,Middle East & Africa,Electronics,Portable Charger,673,124.71,83929.83,37327.55,46602.28
+ORD-10024,2025-12-12,Asia Pacific,Clothing,Running Shoes,503,220.11,110715.33,86222.86,24492.47
+ORD-10025,2025-01-03,Latin America,Electronics,Portable Charger,267,36.46,9734.82,5744.64,3990.18
+ORD-10026,2025-02-18,Europe,Food & Beverage,Sparkling Water,876,241.27,211352.52,163072.29,48280.23
+ORD-10027,2025-03-25,Europe,Food & Beverage,Dark Chocolate,774,112.33,86943.42,52777.29,34166.13
+ORD-10028,2025-04-04,Europe,Clothing,Running Shoes,702,10.15,7125.3,4428.86,2696.44
+ORD-10029,2025-05-19,Europe,Electronics,Wireless Headphones,130,61.09,7941.7,6052.91,1888.79
+ORD-10030,2025-06-28,Asia Pacific,Electronics,Portable Charger,497,73.23,36395.31,21624.85,14770.46
+ORD-10031,2025-07-18,Europe,Sports,Foam Roller,978,64.53,63110.34,37183.93,25926.41
+ORD-10032,2025-08-14,Europe,Electronics,Wireless Headphones,892,91.8,81885.6,46219.58,35666.02
+ORD-10033,2025-09-28,North America,Electronics,Wireless Headphones,834,183.41,152963.94,110170.29,42793.65
+ORD-10034,2025-10-04,Europe,Clothing,Winter Jacket,1108,114.91,127320.28,72413.75,54906.53
+ORD-10035,2025-11-09,Latin America,Clothing,Running Shoes,917,202.97,186123.49,138175.61,47947.88
